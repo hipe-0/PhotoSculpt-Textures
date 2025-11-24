@@ -1,5 +1,5 @@
 # PhotoSculpt-Textures
-Here is the Open source version of my software PhotoSculpt Textures v2.4
+Here is the Open source version of my software PhotoSculpt Textures v2.04
 
 # What is it?
 * PhotoSculpt Textures is a specialized software tool used to create high-resolution 3D textures and models from just two photographs of a subject taken from different angles. 
