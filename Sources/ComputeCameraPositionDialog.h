@@ -1,0 +1,1 @@
+bool computeCameraDialog(HINSTANCE inst, HWND hwnd, POVFinder * finder);

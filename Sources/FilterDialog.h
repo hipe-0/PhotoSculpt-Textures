@@ -1,0 +1,1 @@
+bool askBlurRadiusDialog(HINSTANCE inst, HWND hwnd, float * blurradiusinputoutput);
